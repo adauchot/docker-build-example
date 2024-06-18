@@ -16,7 +16,7 @@ Or run the container detached
 ## Check if the container is running
 `docker ps`
 
-You should see something like this\
+You should see something like this
 ```
 0e5fdba07fc7   docker-example                         "docker-entrypoint.s…"   9 seconds ago   Up 9 seconds    0.0.0.0:3000->3000/tcp, :::3000->3000/tcp                                                        blissful_agnesi
 ```
