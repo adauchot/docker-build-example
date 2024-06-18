@@ -8,7 +8,9 @@ Simple HTML web app served on port 3000 with provided Dockerfile to build a dock
 
 ## Run the container
 `docker run -p 3000:3000 docker-example`
+
 Or run the container detached
+
 `docker run -d -p 3000:3000 docker-example`
 
 ## Check if the container is running
