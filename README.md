@@ -17,5 +17,5 @@ Simple HTML web app served on port 3000 with provided Dockerfile to build a dock
 
 You should see something like this\
 ```
-0e5fdba07fc7   example                         "docker-entrypoint.s…"   9 seconds ago   Up 9 seconds    0.0.0.0:3000->3000/tcp, :::3000->3000/tcp                                                        blissful_agnesi
+0e5fdba07fc7   docker-example                         "docker-entrypoint.s…"   9 seconds ago   Up 9 seconds    0.0.0.0:3000->3000/tcp, :::3000->3000/tcp                                                        blissful_agnesi
 ```
